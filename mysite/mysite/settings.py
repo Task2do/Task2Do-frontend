@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    "Task2Do.apps.Task2DoConfig",
     "django.contrib.admin",
     "django.contrib.auth",
     "django.contrib.contenttypes",
